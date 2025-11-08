@@ -1,0 +1,1128 @@
+﻿Kineis - Powering up Kineis Satellite Connectivity Module...
+
+
+Kineis - Success! Module is connected. Reading configuration...
+
+
+Kineis - Module ID: +ID=21490c7
+
+
+
+
+Kineis - Module Firmware: +FW=KIM1_V2.1
+
+
+
+
+Kineis - Setting frame format...
+
+
+Kineis - Frame Format: +OK
+
+
+
+
+Kineis - Transmission Power: +PWR=1000
+
+
+
+
+System - Kineis and Peripherals initialization done.
+
+
+System - Reading sensor data...
+
+
+DHT20 - Temperature: 22.24°C
+
+
+DHT20 - Humidity: 42%
+
+
+BMP280 - Pressure: 1013mbar
+
+
+Light Sensor - Value: 4/255
+
+
+Sound Sensor - Value: 91/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: AF082A00F503045B440000000000000000000000000000
+
+
+Kineis - Error!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+
+
+DHT20 - Temperature: 22.17°C
+
+
+DHT20 - Humidity: 42%
+
+
+BMP280 - Pressure: 1013mbar
+
+
+Light Sensor - Value: 3/255
+
+
+Sound Sensor - Value: 125/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: A8082A00F503037D440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+
+
+DHT20 - Temperature: 22.16°C
+
+
+DHT20 - Humidity: 42%
+
+
+BMP280 - Pressure: 1013mbar
+
+
+Light Sensor - Value: 3/255
+
+
+Sound Sensor - Value: 161/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: A8082A00F50303A1440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+DHT20 - Temperature: 22.14°C
+
+
+DHT20 - Humidity: 42%
+
+
+BMP280 - Pressure: 1013mbar
+
+
+Light Sensor - Value: 5/255
+
+
+Sound Sensor - Value: 171/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: A6082A00F50305AB440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+
+
+DHT20 - Temperature: 22.18°C
+
+
+DHT20 - Humidity: 43%
+
+
+BMP280 - Pressure: 1013mbar
+
+
+Light Sensor - Value: 3/255
+
+
+Sound Sensor - Value: 185/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: A9082B00F50303B9440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+DHT20 - Temperature: 22.17°C
+
+
+DHT20 - Humidity: 42%
+
+
+BMP280 - Pressure: 1013mbar
+
+
+Light Sensor - Value: 5/255
+
+
+Sound Sensor - Value: 163/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: A9082A00F50305A3440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+
+
+DHT20 - Temperature: 22.14°C
+
+
+DHT20 - Humidity: 42%
+
+
+BMP280 - Pressure: 1013mbar
+
+
+Light Sensor - Value: 3/255
+
+
+Sound Sensor - Value: 161/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: A5082A00F50303A1440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+DHT20 - Temperature: 22.09°C
+
+
+DHT20 - Humidity: 42%
+
+
+BMP280 - Pressure: 1013mbar
+
+
+Light Sensor - Value: 4/255
+
+
+Sound Sensor - Value: 186/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: A1082A00F50304BA440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+
+
+DHT20 - Temperature: 22.08°C
+
+
+DHT20 - Humidity: 42%
+
+
+BMP280 - Pressure: 1013mbar
+
+
+Light Sensor - Value: 5/255
+
+
+Sound Sensor - Value: 188/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 9F082A00F50305BC440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+DHT20 - Temperature: 22.04°C
+
+
+DHT20 - Humidity: 42%
+
+
+BMP280 - Pressure: 1013mbar
+
+
+Light Sensor - Value: 4/255
+
+
+Sound Sensor - Value: 166/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 9C082A00F50304A6440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+
+
+DHT20 - Temperature: 22.04°C
+
+
+DHT20 - Humidity: 42%
+
+
+BMP280 - Pressure: 1013mbar
+
+
+Light Sensor - Value: 4/255
+
+
+Sound Sensor - Value: 179/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 9B082A00F50304B3440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+DHT20 - Temperature: 22.04°C
+
+
+DHT20 - Humidity: 42%
+
+
+BMP280 - Pressure: 1013mbar
+
+
+Light Sensor - Value: 4/255
+
+
+Sound Sensor - Value: 170/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 9C082A00F50304AA440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+
+
+DHT20 - Temperature: 22.03°C
+
+
+DHT20 - Humidity: 42%
+
+
+BMP280 - Pressure: 1013mbar
+
+
+Light Sensor - Value: 5/255
+
+
+Sound Sensor - Value: 177/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 9A082A00F50305B1440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+DHT20 - Temperature: 22.04°C
+
+
+DHT20 - Humidity: 42%
+
+
+BMP280 - Pressure: 1012mbar
+
+
+Light Sensor - Value: 4/255
+
+
+Sound Sensor - Value: 167/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 9B082A00F40304A7440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+
+
+DHT20 - Temperature: 22.00°C
+
+
+DHT20 - Humidity: 42%
+
+
+BMP280 - Pressure: 1012mbar
+
+
+Light Sensor - Value: 4/255
+
+
+Sound Sensor - Value: 175/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 98082A00F40304AF440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+DHT20 - Temperature: 21.96°C
+
+
+DHT20 - Humidity: 42%
+
+
+BMP280 - Pressure: 1013mbar
+
+
+Light Sensor - Value: 5/255
+
+
+Sound Sensor - Value: 163/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 94082A00F50305A3440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+
+
+DHT20 - Temperature: 21.92°C
+
+
+DHT20 - Humidity: 42%
+
+
+BMP280 - Pressure: 1012mbar
+
+
+Light Sensor - Value: 4/255
+
+
+Sound Sensor - Value: 170/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 90082A00F40304AA440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+DHT20 - Temperature: 21.88°C
+
+
+DHT20 - Humidity: 42%
+
+
+BMP280 - Pressure: 1012mbar
+
+
+Light Sensor - Value: 4/255
+
+
+Sound Sensor - Value: 164/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 8C082A00F40304A4440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+
+
+DHT20 - Temperature: 21.85°C
+
+
+DHT20 - Humidity: 42%
+
+
+BMP280 - Pressure: 1012mbar
+
+
+Light Sensor - Value: 3/255
+
+
+Sound Sensor - Value: 170/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 89082A00F40303AA440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+DHT20 - Temperature: 21.89°C
+
+
+DHT20 - Humidity: 46%
+
+
+BMP280 - Pressure: 1012mbar
+
+
+Light Sensor - Value: 3/255
+
+
+Sound Sensor - Value: 170/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 8C082E00F40303AA440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+
+
+DHT20 - Temperature: 21.85°C
+
+
+DHT20 - Humidity: 43%
+
+
+BMP280 - Pressure: 1012mbar
+
+
+Light Sensor - Value: 4/255
+
+
+Sound Sensor - Value: 170/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 88082B00F40304AA440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data..
+DHT20 - Temperature: 21.82°C
+
+
+DHT20 - Humidity: 43%
+
+
+BMP280 - Pressure: 1012mbar
+
+
+Light Sensor - Value: 4/255
+
+
+Sound Sensor - Value: 185/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 86082B00F40304B9440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+
+
+DHT20 - Temperature: 21.84°C
+
+
+DHT20 - Humidity: 44%
+
+
+BMP280 - Pressure: 1012mbar
+
+
+Light Sensor - Value: 4/255
+
+
+Sound Sensor - Value: 161/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 87082C00F40304A1440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+HT20 - Temperature: 21.83°C
+
+
+DHT20 - Humidity: 44%
+
+
+BMP280 - Pressure: 1012mbar
+
+
+Light Sensor - Value: 4/255
+
+
+Sound Sensor - Value: 172/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 86082C00F40304AC440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+
+
+DHT20 - Temperature: 21.84°C
+
+
+DHT20 - Humidity: 43%
+
+
+BMP280 - Pressure: 1012mbar
+
+
+Light Sensor - Value: 4/255
+
+
+Sound Sensor - Value: 156/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 87082B00F403049C440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+DHT20 - Temperature: 21.88°C
+
+
+DHT20 - Humidity: 43%
+
+
+BMP280 - Pressure: 1012mbar
+
+
+Light Sensor - Value: 5/255
+
+
+Sound Sensor - Value: 160/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 8B082B00F40305A0440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+
+
+DHT20 - Temperature: 21.83°C
+
+
+DHT20 - Humidity: 43%
+
+
+BMP280 - Pressure: 1012mbar
+
+
+Light Sensor - Value: 4/255
+
+
+Sound Sensor - Value: 174/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 86082B00F40304AE440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+DHT20 - Temperature: 21.86°C
+
+
+DHT20 - Humidity: 43%
+
+
+BMP280 - Pressure: 1012mbar
+
+
+Light Sensor - Value: 4/255
+
+
+Sound Sensor - Value: 153/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 8A082B00F4030499440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+
+
+DHT20 - Temperature: 21.88°C
+
+
+DHT20 - Humidity: 43%
+
+
+BMP280 - Pressure: 1012mbar
+
+
+Light Sensor - Value: 3/255
+
+
+Sound Sensor - Value: 168/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 8B082B00F40303A8440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+DHT20 - Temperature: 21.86°C
+
+
+DHT20 - Humidity: 44%
+
+
+BMP280 - Pressure: 1012mbar
+
+
+Light Sensor - Value: 4/255
+
+
+Sound Sensor - Value: 167/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 8A082C00F40304A7440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+
+
+DHT20 - Temperature: 21.88°C
+
+
+DHT20 - Humidity: 43%
+
+
+BMP280 - Pressure: 1012mbar
+
+
+Light Sensor - Value: 4/255
+
+
+Sound Sensor - Value: 163/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 8C082B00F40304A3440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+DHT20 - Temperature: 21.88°C
+
+
+DHT20 - Humidity: 43%
+
+
+BMP280 - Pressure: 1012mbar
+
+
+Light Sensor - Value: 4/255
+
+
+Sound Sensor - Value: 163/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 8C082B00F40304A3440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+
+
+DHT20 - Temperature: 21.88°C
+
+
+DHT20 - Humidity: 45%
+
+
+BMP280 - Pressure: 1012mbar
+
+
+Light Sensor - Value: 5/255
+
+
+Sound Sensor - Value: 155/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 8B082D00F403059B440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+ystem - Reading sensor data...
+
+
+DHT20 - Temperature: 21.88°C
+
+
+DHT20 - Humidity: 45%
+
+
+BMP280 - Pressure: 1012mbar
+
+
+Light Sensor - Value: 5/255
+
+
+Sound Sensor - Value: 155/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 8B082D00F403059B440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+
+
+DHT20 - Temperature: 22.02°C
+
+
+DHT20 - Humidity: 43%
+
+
+BMP280 - Pressure: 1012mbar
+
+
+Light Sensor - Value: 4/255
+
+
+Sound Sensor - Value: 167/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 9A082B00F40304A7440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data..
+DHT20 - Temperature: 22.06°C
+
+
+DHT20 - Humidity: 42%
+
+
+BMP280 - Pressure: 1012mbar
+
+
+Light Sensor - Value: 3/255
+
+
+Sound Sensor - Value: 164/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 9D082A00F40303A4440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+
+
+System - Reading sensor data...
+
+
+DHT20 - Temperature: 22.01°C
+
+
+DHT20 - Humidity: 42%
+
+
+BMP280 - Pressure: 1012mbar
+
+
+Light Sensor - Value: 5/255
+
+
+Sound Sensor - Value: 167/255
+
+
+Potentiometer - Value: 68/255
+
+
+Kineis - Powering on KIM1 and attempting to send payload: 98082A00F40305A7440000000000000000000000000000
+
+
+Kineis - Payload sent!
+
+
+Kineis - Powering off KIM1 Module.
+ystem - Reading sensor data...
+
+
+DHT20 - Temperature: 22.04°C
+
+
+DHT20 - Humidity: 42%
+
+
+BMP280 - Pressure: 1012mbar
+
+
+Light Sensor - Value: 3/255
+
+
+Sound Sensor - Value: 158/255
+
+
+Potentiometer - Value: 68/255
